@@ -2,4 +2,4 @@
 Simple website with tools to break out of kiosk sandboxes
 
 
-![alt tag](http://imgur.com/aGxC5Tl)
+![alt tag](http://i.imgur.com/aGxC5Tl.png)
